@@ -17,7 +17,7 @@ export default function Home() {
         />
         <Card.Body>
           <Card.Title>I Phone 14</Card.Title>
-          <Card.Text>Price:- 1500$</Card.Text>
+          <Card.Text>Price:- $1500</Card.Text>
           <Button variant="primary">Add To Card</Button>
         </Card.Body>
       </Card>
